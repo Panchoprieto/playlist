@@ -1,5 +1,8 @@
 h1 {
     text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    
 }
 
 #cart {
@@ -63,4 +66,11 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
+    color:grey;
+    background-color: white;
+    border-radius: 20px;
+}
+
+body{
+    background-color: lightblue;
 }
