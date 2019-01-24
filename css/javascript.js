@@ -17,3 +17,15 @@ songList.forEach(function(test){
     (".songList").append(test);
 });
 });
+
+/*global $*/
+var songList = [];
+
+
+$('.add').click(function() {
+    var userInput = $(".song").val();
+
+    songList.push(userInput);
+
+    $(".songs").append("<p>" + userInput + "<p>");
+});
