@@ -1,7 +1,10 @@
 h1 {
     text-align: center;
-    background-color: white;
+    background-color: #F9B5DF;
     border-radius: 20px;
+    padding: 20px;
+    border: solid black;
+    margin: 20px;
     
 }
 
@@ -53,9 +56,10 @@ h1 {
 }
 
 #form {
-    width: 75%;
     margin: 0 auto 20px auto;
     font-size: 18px;
+    display: flex;
+    justify-content: center;
 }
 
 input {
@@ -66,8 +70,8 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
-    color:grey;
-    background-color: white;
+    color:black;
+    background-color: #8F86E8;
     border-radius: 20px;
 }
 
