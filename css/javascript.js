@@ -2,7 +2,7 @@
  
 /* global $ */
 
-var songs = [ "Rise", "Bye Bye YESTERDAY", "Ievan Polkka", "World is Mine"
+var songs = ["Rise", "Bye Bye YESTERDAY", "Ievan Polkka", "World is Mine"
 ];
 
 var artists = ["MADKID", "3-nen E-gumi Utatan", "Hatsune Miku", "Hatsune Miku"

@@ -25,6 +25,8 @@ h1 {
     height: 100px;
     width: auto;
     margin: 20px;
+    border-radius: 10px;
+    border:solid black;
 }
 
 #songs p {
